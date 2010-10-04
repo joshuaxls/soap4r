@@ -6,7 +6,7 @@ This is a modified version of the soap4r library to work on Ruby versions
 == Install
 
 There is no rubygem for this library. Simply grab the latest version from the
-{download}[http://github.com/spox/soap4r-spox/downloads] page, unpack it and run:
+download page, unpack it and run:
 
   ruby setup.rb all
 
@@ -26,6 +26,7 @@ A big thanks to everyone that has been helping squash 1.9 bugs in this library
 * {xaviershay}[http://github.com/xaviershay]
 * {stopdropandrew}[http://github.com/stopdropandrew]
 * {dlangevin}[http://github.com/dlangevin]
+* {tribalvibes}[http://github.com/tribalvibes]
 * Counterspell
 
 ==== Where to find me
