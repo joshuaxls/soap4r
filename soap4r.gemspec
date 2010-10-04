@@ -4,7 +4,7 @@
 require 'rubygems'
 SPEC = Gem::Specification.new do |s|
   s.name = "soap4r"
-  s.version = "1.5.8.5"
+  s.version = "1.5.8.5" 
   s.date = "2010-10-03"
   s.author = "Scott Diedrick (modifier: swalterd)"
   s.email = "swalterd@gmail.com"
